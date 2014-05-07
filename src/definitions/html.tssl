@@ -2163,7 +2163,6 @@
         <memberOf group='M_INLINE'/>
         <contains group='M_NOLINK'/>
         <attribute name='hreflang' type='NMTOKEN' />
-        <attribute name='shape' default='rect'/>
         <attribute name='tabindex' type='NMTOKEN' />
       </element>
       <element name='abbr' closeMode='restartable' type='mixed'>
@@ -2444,7 +2443,6 @@
         <element name='area' type='empty'>
           <memberOf group='M_AREA'/>
           <attribute name='nohref' type='BOOLEAN' />
-          <attribute name='shape' default='rect'/>
           <attribute name='tabindex' type='NMTOKEN' />
         </element>
       </element>
