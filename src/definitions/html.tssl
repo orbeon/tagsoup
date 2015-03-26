@@ -2220,7 +2220,6 @@
       <element name='br' type='empty'>
         <memberOf group='M_INLINE'/>
         <memberOf group='M_NOLINK'/>
-        <attribute name='clear' default='none'/>
       </element>
       <element name='canvas' type='mixed'>
         <memberOf group='M_INLINE'/>
