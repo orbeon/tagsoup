@@ -2368,6 +2368,13 @@
           <attribute name='rows' type='NMTOKEN' />
           <attribute name='tabindex' type='NMTOKEN' />
         </element>
+        <element name='output' type='mixed'>
+          <memberOf group='M_INLINE'/>
+          <contains group='M_INLINE'/>
+          <attribute name='for' type='string' />
+          <attribute name='form' type='IDREF' />
+          <attribute name='name' type='IDREF' />
+        </element>
       </element>
       <element name='h1' type='mixed'>
         <memberOf group='M_BLOCK'/>
